@@ -11,9 +11,13 @@ class Solution(object):
         :rtype: bool
         """
         # Algorithm details:
-            # find the reverse of the input
-            # if the reverse of the input is equal to the input, the input is a palindrome (return True)
-            # else, return False
+            # if input length == 0, return False
+            # if input length == 1, return True
+            # else, iterate through half the size of the input
+            # confirm that the i-th element of the first half matches the mirrored i-th element of the second half
+            # if they do not match, return False
+            # iterate through until middle point reached, if not mismatches, return True
+            
         x2 = str(x)
         size = len(x2)
         if size == 0:        # if x is null, return False
@@ -22,7 +26,7 @@ class Solution(object):
             return True
         else:                               # check for is palindrome
             for i in range(size//2):        # only check half the string to confirm mirroring
-                if x2[i] != x2[size-1-i]:   # check that the string mirrors itself
+                if x2[i] != x2[size-1-i]:   # check that the string mirrors itself; include -1 to prevent index error
                     return False            # if not, return false
             return True                     # if it does, return true
         
