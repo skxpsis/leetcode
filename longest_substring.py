@@ -1,3 +1,7 @@
+# TITLE:       Longest Substring Without Repeating Characters
+# DESCRIPTION: Given a string s, find the length of the longest substring without repeating characters.
+# DIFFICULTY:  MEDIUM
+
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         """
@@ -43,4 +47,3 @@ class Solution(object):
             right_window += 1                                                 # slide/increment right_window to look at new character in string
                 
         return longest
-        
