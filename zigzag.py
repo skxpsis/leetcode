@@ -1,3 +1,5 @@
+# In progress -- code comments/clarity/refactor if able
+
 def solution(numbers):
     size = len(numbers)
     arr = []
