@@ -16,6 +16,7 @@
 # class Solution(object):
 def maxAbsoluteSum(size, nums):
     """
+    :type size: int
     :type nums: List[int]
     :rtype: int
     """
