@@ -5,13 +5,14 @@
 #  DIFFICULTY:  Medium
 #        TIME:  O(N)
 #       SPACE:  O(1)
-
-# Using sliding window technique where each subarray is a sliding window
-# Initial sliding window has size == 1 where the window both starts and ends at index 0 of the array
-# Iterate over the array, adding elements to the window until the window's sum is >= to the target
-# Shrink the window from the left until the sum becomes smaller than the target
-    # At each shrink, if the sum is still >= the target, update the minimum length to the new minimum
-    # Shrink again
+# 
+# Algorithm details:
+    # Using sliding window technique where each subarray is a sliding window
+    # Initial sliding window has size == 1 where the window both starts and ends at index 0 of the array
+    # Iterate over the array, adding elements to the window until the window's sum is >= to the target
+    # Shrink the window from the left until the sum becomes smaller than the target
+        # At each shrink, if the sum is still >= the target, update the minimum length to the new minimum
+        # Shrink again
 
 class Solution(object):
     def minSubArrayLen(self, target, nums):

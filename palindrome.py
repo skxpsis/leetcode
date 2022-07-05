@@ -3,6 +3,14 @@
 #              An integer is a palindrome when it reads the same backward as forward.
 #              For example, 121 is a palindrome while 123 is not.
 # DIFFICULTY:  Easy
+#
+# Algorithm details:
+    # if input length == 0, return False
+    # if input length == 1, return True
+    # else, iterate through half the size of the input
+    # confirm that the i-th element of the first half matches the mirrored i-th element of the second half
+    # if they do not match, return False
+    # iterate through until middle point reached, if not mismatches, return True
 
 class Solution(object):
     def isPalindrome(self, x):
@@ -10,13 +18,6 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        # Algorithm details:
-            # if input length == 0, return False
-            # if input length == 1, return True
-            # else, iterate through half the size of the input
-            # confirm that the i-th element of the first half matches the mirrored i-th element of the second half
-            # if they do not match, return False
-            # iterate through until middle point reached, if not mismatches, return True
             
         x2 = str(x)
         size = len(x2)

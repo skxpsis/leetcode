@@ -5,17 +5,18 @@
 # DIFFICULTY:  Medium
 # TIME:        O(N)
 # SPACE:       O(1)
-
-# Kadane's Algorithm
-    # Calculates maximum sum of a subarray of an array
-    # Using maximum positive sum (max) and maximum negative sum (min) ending at the previous position
-    # At each iteration of the loop:
-        # If the current_sum is larger than the max_sum,
-            # the max_sum assumes the value of the current_sum
-        # If the current_sum is smaller than the min_sum,
-            # the min_sum assumes the value of the current_sum
-        # As current_sum compares with max/min sum:
-    # The final absolute sum to return is the absolute max of the max/min difference
+#
+# Algorithm detailS: 
+    # Kadane's Algorithm
+        # Calculates maximum sum of a subarray of an array
+        # Using maximum positive sum (max) and maximum negative sum (min) ending at the previous position
+        # At each iteration of the loop:
+            # If the current_sum is larger than the max_sum,
+                # the max_sum assumes the value of the current_sum
+            # If the current_sum is smaller than the min_sum,
+                # the min_sum assumes the value of the current_sum
+            # As current_sum compares with max/min sum:
+        # The final absolute sum to return is the absolute max of the max/min difference
 
 class Solution(object):
     def maxAbsoluteSum(self, nums):

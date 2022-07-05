@@ -1,10 +1,14 @@
-# TITLE:       Sort Array by Parity
+#       TITLE: Sort Array by Parity
 # DESCRIPTION: Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
 #              Return any array that satisfies this condition.
 # DIFFICULTY:  Easy
+#       TIME: O(N)
+# 
+# Algorithm details:
+    # First solution (niave): iterate through the list, create new lists based on even and odd numbers. Concatentate lists to each other at the end.  
+    # Second Solution: Improved in-place solution using two pointers
+    # They both share the same time complexity but the first solution consumes more memory
 
-# First (naive) solution: iterate through the list, create new lists based on even and odd numbers. 
-# Concatentate lists to each other at the end.
 class Solution(object):
     def sortArrayByParity(self, nums):
         """
@@ -25,7 +29,6 @@ class Solution(object):
         new_list = even_nums + odd_nums
         return new_list
     
-# Improved in-place solution using two pointers
 class Solution(object):
     def sortArrayByParity(self, nums):
         """
