@@ -1,10 +1,10 @@
-# TITLE:        Minimum Size Subarray Sum
+#       TITLE:  Minimum Size Subarray Sum
 # DESCRIPTION:  Given an array of positive integers nums and a positive integer target, 
 #               return the minimal length of a contiguous subarray [nums[l], nums[l+1], ..., nums[r-1], nums[r]] of which the sum is greater than or equal to target.
 #               If there is no such subarray, return 0 instead.
-# DIFFICULT:    Medium
-# TIME:         O(N)
-# SPACE:        O(1)
+#  DIFFICULTY:  Medium
+#        TIME:  O(N)
+#       SPACE:  O(1)
 
 # Using sliding window technique where each subarray is a sliding window
 # Initial sliding window has size == 1 where the window both starts and ends at index 0 of the array
