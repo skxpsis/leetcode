@@ -1,27 +1,28 @@
 # TITLE:       Maximum Absolute Sum of Any Subarray
-# DESCRIPTION: You are given an integer array nums. The absolute sum of a subarray is abs(nums[l] + nums[l+1] + ... + nums[r-1] + nums[r]).
+# DESCRIPTION: You are given an integer array nums.
+#              The absolute sum of a subarray (nums[l] + nums[l+1] + ... + nums[r-1] + nums[r]) is abs(nums[l] + nums[l+1] + ... + nums[r-1] + nums[r]).
 #              Return the maximum absolute sum of any (possibly empty) subarray of nums.
 # DIFFICULTY:  Medium
 # TIME:        O(N)
 # SPACE:       O(1)
+
+# Kadane's Algorithm
+    # Calculates maximum sum of a subarray of an array
+    # Using maximum positive sum (max) and maximum negative sum (min) ending at the previous position
+    # At each iteration of the loop:
+        # If the current_sum is larger than the max_sum,
+            # the max_sum assumes the value of the current_sum
+        # If the current_sum is smaller than the min_sum,
+            # the min_sum assumes the value of the current_sum
+        # As current_sum compares with max/min sum:
+    # The final absolute sum to return is the absolute max of the max/min difference
 
 class Solution(object):
     def maxAbsoluteSum(self, nums):
         """
         :type nums: List[int]
         :rtype: int
-        """
-        # Kadane's Algorithm
-            # Calculates maximum sum of a subarray of an array
-            # Using maximum positive sum (max) and maximum negative sum (min) ending at the previous position
-            # At each iteration of the loop:
-                # If the current_sum is larger than the max_sum,
-                    # the max_sum assumes the value of the current_sum
-                # If the current_sum is smaller than the min_sum,
-                    # the min_sum assumes the value of the current_sum
-                # As current_sum compares with max/min sum:
-            # The final absolute sum to return is the absolute max of the max/min difference
-            
+        """ 
         current_sum = 0             # maximum sum ending here
         max_sum     = 0             # maxiumum sum so far
         min_sum     = 0             # minumum sum so far
