@@ -3,14 +3,14 @@
 #  DIFFICULTY: Medium
 #        TIME: O(N)  
 #       SPACE: O(1)
-#
-# Using sliding window technique where each subarray is a sliding window
-# Initial sliding window has size == 1 where the window both starts and ends at index 0 of the array
-# Iterate over the array, increment the end of the window each time
-# If the window size is equal to the target size, then we have a sum of a k-sized subarray in the window
-    # Update the maximum sum and slide the window to calculate the next sum
-        # Check is the current window sum > maximum sum; if so, update maximum to the current sum
-        # Slide the window by removing the head of the window; increment the new head by 1  
+# Algorithm details:
+    # Using sliding window technique where each subarray is a sliding window
+    # Initial sliding window has size == 1 where the window both starts and ends at index 0 of the array
+    # Iterate over the array, increment the end of the window each time
+    # If the window size is equal to the target size, then we have a sum of a k-sized subarray in the window
+        # Update the maximum sum and slide the window to calculate the next sum
+            # Check is the current window sum > maximum sum; if so, update maximum to the current sum
+            # Slide the window by removing the head of the window; increment the new head by 1  
 
 # class Solution(object):
 def maxAbsoluteSum(size, nums):
