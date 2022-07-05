@@ -1,6 +1,20 @@
-# TITLE:       Longest Substring Without Repeating Characters
+#       TITLE: Longest Substring Without Repeating Characters
 # DESCRIPTION: Given a string s, find the length of the longest substring without repeating characters.
-# DIFFICULTY:  MEDIUM
+#  DIFFICULTY: Medium
+#        TIME: O(N)
+
+# Algorithm details:
+#     Sliding Window Algorithm
+#     left-window = beginning of window
+#     right-window = end of window
+#     both left & right window start at index 0
+#     slide/increment the right window until duplicate character encountered
+#     reassign longest length variable at each right-window increment where no duplicate encountered
+#     if duplicate encountered, then increment left-window by 1
+#         decrease longest length count by 1
+#         repeat until as needed (no duplicates in window)
+#     if left-window & right-window are at same index
+#         move right-window first
 
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
@@ -8,18 +22,6 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        # Algorithm details:
-            # Slide Window Algorithm
-            # left-window = beginning of window
-            # right-window = end of window
-            # both left & right window start at index 0
-            # slide/increment the right window until duplicate character encountered
-            # reassign longest length variable at each right-window increment where no duplicate encountered
-            # if duplicate encountered, then increment left-window by 1
-                # decrease longest length count by 1
-                # repeat until as needed (no duplicates in window)
-            # if left-window & right-window are at same index
-                # move right-window first
         
         left_window  = 0      # start of window
         right_window = 0      # end of window
