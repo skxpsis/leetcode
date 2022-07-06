@@ -1,5 +1,3 @@
-# In progress - posted in Leetcode suggested solution based on problem "Hints"
-
 #       TITLE: Sort Colors
 # DESCRIPTION: Given an array nums with n objects colored red, white, or blue, 
 #              sort them in-place so that objects of the same color are adjacent, 
