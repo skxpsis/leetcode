@@ -7,6 +7,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Maximum Absolute Sum of Any Subarray](https://github.com/skxpsis/leetcode/blob/main/max_subarray_abs_sum.py)
 - [Maximum Sub Subarray of Size K](https://github.com/skxpsis/leetcode/blob/main/max_subarray_sum.py)
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
+- [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
 ### Two Pointers
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
 ### Hash Map
@@ -27,3 +28,4 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
 - [Reversed Integer](https://github.com/skxpsis/leetcode/blob/main/reversed_int.py)
 ### Hard
+- [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
