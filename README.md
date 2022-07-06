@@ -1,4 +1,4 @@
-# leetcode
+# Leetcode
 Various Leetcode-style problems and solutions in Python, sorted by technique and difficulty.
 
 ## By Technique
@@ -9,6 +9,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
 ### Two Pointers
+- [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
 ### Hash Map
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
@@ -18,6 +19,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 
 ## By Difficulty
 ### Easy
+- [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
