@@ -10,11 +10,12 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
 ### Two Pointers
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
+- [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
+- [Sort Colors](https://github.com/skxpsis/leetcode/blob/main/sort_colors.py)
 ### Hash Map
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
-### Other
-- [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
+### String Manipulation
 - [Reversed Integer](https://github.com/skxpsis/leetcode/blob/main/reversed_int.py)
 
 ## By Difficulty
@@ -29,5 +30,6 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Maximum Sub Subarray of Size K](https://github.com/skxpsis/leetcode/blob/main/max_subarray_sum.py)
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
 - [Reversed Integer](https://github.com/skxpsis/leetcode/blob/main/reversed_int.py)
+- [Sort Colors](https://github.com/skxpsis/leetcode/blob/main/sort_colors.py)
 ### Hard
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
