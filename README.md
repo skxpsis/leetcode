@@ -13,6 +13,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
 - [Sort Colors](https://github.com/skxpsis/leetcode/blob/main/sort_colors.py)
+- [Squares of a Sorted Array](https://github.com/skxpsis/leetcode/blob/main/sorted_arr_squares.py)
 ### Hash Map
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
 ### String Manipulation
@@ -23,6 +24,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
+- [Squares of a Sorted Array](https://github.com/skxpsis/leetcode/blob/main/sorted_arr_squares.py)
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
 ### Medium
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
