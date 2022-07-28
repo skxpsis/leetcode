@@ -24,19 +24,19 @@ class Solution(object):
         t_dict = {}
         
         for char in t:
-            if char not in t_dict.keys():
+            if char not in t_dict:
                 t_dict[char] = 0
             t_dict[char] += 1
         
         for char in s:
-            if char in t_dict.keys():
-                t_dict[char] -= 1
-            else:
+            if char not in t_dict:
                 return False
-        
-        invalid = [key for key, value in t_dict.items() if value != 0]
-        
-        if invalid:
-            return False
-        else:
-            return True
+            else:
+                t_dict[char] -= 1
+            
+        for val in t_dict.values():
+            if val != 0:
+                return False
+
+        return True
+    
