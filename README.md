@@ -27,6 +27,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
 - [Squares of a Sorted Array](https://github.com/skxpsis/leetcode/blob/main/sorted_arr_squares.py)
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
+- [Valid Anagram](https://github.com/skxpsis/leetcode/blob/main/valid_anagram.py)
 ### Medium
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
 - [Maximum Absolute Sum of Any Subarray](https://github.com/skxpsis/leetcode/blob/main/max_subarray_abs_sum.py)
