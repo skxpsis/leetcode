@@ -16,6 +16,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Squares of a Sorted Array](https://github.com/skxpsis/leetcode/blob/main/sorted_arr_squares.py)
 ### Hash Map
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
+- [Zig Zag Conversion](https://github.com/skxpsis/leetcode/blob/main/zigzag_conversion.py)
 ### String Manipulation
 - [Reversed Integer](https://github.com/skxpsis/leetcode/blob/main/reversed_int.py)
 
@@ -33,5 +34,6 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
 - [Reversed Integer](https://github.com/skxpsis/leetcode/blob/main/reversed_int.py)
 - [Sort Colors](https://github.com/skxpsis/leetcode/blob/main/sort_colors.py)
+- [Zig Zag Conversion](https://github.com/skxpsis/leetcode/blob/main/zigzag_conversion.py)
 ### Hard
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
