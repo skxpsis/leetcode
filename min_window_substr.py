@@ -34,7 +34,7 @@ class Solution(object):
             current_char = s[window_end]                                                # get current character
             window_counts[current_char] = window_counts.get(current_char, 0) + 1        # count current character in window_counts dict
             
-            """ lines 31-33 are alternative to line 29 """
+            """ lines 38-40 are alternative to line 35 """
             # if current_char not in window_counts.keys():    # if current character not in window_counts dict
             #      window_counts[current_char] = 0            # add it
             # window_counts[current_char] += 1                # increment the count of the current char in the window_counts dict
