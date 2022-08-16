@@ -2,9 +2,6 @@
 Various Leetcode-style problems and solutions in Python, sorted by technique and difficulty.
 
 ## By Technique
-### Hash Map
-- [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
-- [Zig Zag Conversion](https://github.com/skxpsis/leetcode/blob/main/zigzag_conversion.py)
 ### Sliding Window
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
@@ -12,6 +9,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Maximum Sub Subarray of Size K](https://github.com/skxpsis/leetcode/blob/main/max_subarray_sum.py)
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
+- [Permutation in String](https://github.com/skxpsis/leetcode/blob/main/perm_in_string.py)
 ### Two Pointers
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
@@ -37,6 +35,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Maximum Absolute Sum of Any Subarray](https://github.com/skxpsis/leetcode/blob/main/max_subarray_abs_sum.py)
 - [Maximum Sub Subarray of Size K](https://github.com/skxpsis/leetcode/blob/main/max_subarray_sum.py)
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
+- [Permutation in String](https://github.com/skxpsis/leetcode/blob/main/perm_in_string.py)
 - [Remove K Digits](https://github.com/skxpsis/leetcode/blob/main/remove_k_digits.py)
 - [Reversed Integer](https://github.com/skxpsis/leetcode/blob/main/reversed_int.py)
 - [Sort Colors](https://github.com/skxpsis/leetcode/blob/main/sort_colors.py)
