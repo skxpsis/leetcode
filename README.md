@@ -11,6 +11,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
 - [Permutation in String](https://github.com/skxpsis/leetcode/blob/main/perm_in_string.py)
+- [Sliding Window Maximum](https://github.com/skxpsis/leetcode/blob/main/sliding_window_max.py)
 ### Two Pointers
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
@@ -44,3 +45,4 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Zig Zag Conversion](https://github.com/skxpsis/leetcode/blob/main/zigzag_conversion.py)
 ### Hard
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
+- [Sliding Window Maximum](https://github.com/skxpsis/leetcode/blob/main/sliding_window_max.py)
