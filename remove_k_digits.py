@@ -31,7 +31,7 @@ class Solution(object):
                 stack.append(number)
                 
         if k > 0:
-			      stack = stack[0:-k] 
+	    stack = stack[0:-k] 
             
         if stack:
             answer = ''.join(stack)
