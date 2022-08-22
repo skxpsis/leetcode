@@ -4,6 +4,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 ## By Technique
 ### Sliding Window
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
+- [Longest Repeating Character Replacement](https://github.com/skxpsis/leetcode/blob/main/longest_repeating_char_replacement.py)
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
 - [Maximum Absolute Sum of Any Subarray](https://github.com/skxpsis/leetcode/blob/main/max_subarray_abs_sum.py)
 - [Maximum Sub Subarray of Size K](https://github.com/skxpsis/leetcode/blob/main/max_subarray_sum.py)
@@ -31,6 +32,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Valid Anagram](https://github.com/skxpsis/leetcode/blob/main/valid_anagram.py)
 ### Medium
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
+- [Longest Repeating Character Replacement](https://github.com/skxpsis/leetcode/blob/main/longest_repeating_char_replacement.py)
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
 - [Maximum Absolute Sum of Any Subarray](https://github.com/skxpsis/leetcode/blob/main/max_subarray_abs_sum.py)
 - [Maximum Sub Subarray of Size K](https://github.com/skxpsis/leetcode/blob/main/max_subarray_sum.py)
