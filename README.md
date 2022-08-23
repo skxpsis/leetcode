@@ -8,6 +8,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
 - [Maximum Absolute Sum of Any Subarray](https://github.com/skxpsis/leetcode/blob/main/max_subarray_abs_sum.py)
 - [Maximum Sub Subarray of Size K](https://github.com/skxpsis/leetcode/blob/main/max_subarray_sum.py)
+- [Minimum Number of K Consecurtive Bit Flips](https://github.com/skxpsis/leetcode/blob/main/min_k_bitflips.py)
 - [Minimum Size Subarray Sum](https://github.com/skxpsis/leetcode/blob/main/min_subarray_sum.py)
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
 - [Permutation in String](https://github.com/skxpsis/leetcode/blob/main/perm_in_string.py)
@@ -44,5 +45,6 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Sort Colors](https://github.com/skxpsis/leetcode/blob/main/sort_colors.py)
 - [Zig Zag Conversion](https://github.com/skxpsis/leetcode/blob/main/zigzag_conversion.py)
 ### Hard
+- [Minimum Number of K Consecurtive Bit Flips](https://github.com/skxpsis/leetcode/blob/main/min_k_bitflips.py)
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
 - [Sliding Window Maximum](https://github.com/skxpsis/leetcode/blob/main/sliding_window_max.py)
