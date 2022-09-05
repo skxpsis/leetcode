@@ -5,6 +5,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 ### Sliding Window
 - [Count Unique Characters of All Substrings of a Given String](https://github.com/skxpsis/leetcode/blob/main/unique_letter_string.py)
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
+- [Longest Palindromic Substring](https://github.com/skxpsis/leetcode/blob/main/longest_palindromic_substr.py)
 - [Longest Repeating Character Replacement](https://github.com/skxpsis/leetcode/blob/main/longest_repeating_char_replacement.py)
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
 - [Maximum Absolute Sum of Any Subarray](https://github.com/skxpsis/leetcode/blob/main/max_subarray_abs_sum.py)
@@ -35,6 +36,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Valid Anagram](https://github.com/skxpsis/leetcode/blob/main/valid_anagram.py)
 ### Medium
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
+- [Longest Palindromic Substring](https://github.com/skxpsis/leetcode/blob/main/longest_palindromic_substr.py)
 - [Longest Repeating Character Replacement](https://github.com/skxpsis/leetcode/blob/main/longest_repeating_char_replacement.py)
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
 - [Maximum Absolute Sum of Any Subarray](https://github.com/skxpsis/leetcode/blob/main/max_subarray_abs_sum.py)
