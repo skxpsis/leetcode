@@ -3,6 +3,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 
 ## By Technique
 ### Sliding Window
+- [Count Unique Characters of All Substrings of a Given String](https://github.com/skxpsis/leetcode/blob/main/unique_letter_string.py)
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
 - [Longest Repeating Character Replacement](https://github.com/skxpsis/leetcode/blob/main/longest_repeating_char_replacement.py)
 - [Longest Substring Without Repeating Characters](https://github.com/skxpsis/leetcode/blob/main/longest_substring.py)
@@ -45,6 +46,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Sort Colors](https://github.com/skxpsis/leetcode/blob/main/sort_colors.py)
 - [Zig Zag Conversion](https://github.com/skxpsis/leetcode/blob/main/zigzag_conversion.py)
 ### Hard
+- [Count Unique Characters of All Substrings of a Given String](https://github.com/skxpsis/leetcode/blob/main/unique_letter_string.py)
 - [Minimum Number of K Consecurtive Bit Flips](https://github.com/skxpsis/leetcode/blob/main/min_k_bitflips.py)
 - [Minimum Window Substring](https://github.com/skxpsis/leetcode/blob/main/min_window_substr.py)
 - [Sliding Window Maximum](https://github.com/skxpsis/leetcode/blob/main/sliding_window_max.py)
