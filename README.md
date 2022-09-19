@@ -17,6 +17,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Sliding Window Maximum](https://github.com/skxpsis/leetcode/blob/main/sliding_window_max.py)
 ### Two Pointers
 - [3-Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
+- [Backspace String Compare](https://github.com/skxpsis/leetcode/blob/main/backspace_string_compare.py)
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
@@ -29,6 +30,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 
 ## By Difficulty
 ### Easy
+- [Backspace String Compare](https://github.com/skxpsis/leetcode/blob/main/backspace_string_compare.py)
 - [Longest Common Prefix](https://github.com/skxpsis/leetcode/blob/main/lcp.py)
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
