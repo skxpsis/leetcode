@@ -28,6 +28,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 
 ## By Difficulty
 ### Easy
+- [Longest Common Prefix](https://github.com/skxpsis/leetcode/blob/main/lcp.py)
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
