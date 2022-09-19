@@ -37,6 +37,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
 - [Valid Anagram](https://github.com/skxpsis/leetcode/blob/main/valid_anagram.py)
 ### Medium
+- [3Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
 - [Longest Palindromic Substring](https://github.com/skxpsis/leetcode/blob/main/longest_palindromic_substr.py)
 - [Longest Repeating Character Replacement](https://github.com/skxpsis/leetcode/blob/main/longest_repeating_char_replacement.py)
