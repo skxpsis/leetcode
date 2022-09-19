@@ -16,7 +16,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Permutation in String](https://github.com/skxpsis/leetcode/blob/main/perm_in_string.py)
 - [Sliding Window Maximum](https://github.com/skxpsis/leetcode/blob/main/sliding_window_max.py)
 ### Two Pointers
-- [3Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
+- [3-Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
@@ -37,7 +37,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
 - [Valid Anagram](https://github.com/skxpsis/leetcode/blob/main/valid_anagram.py)
 ### Medium
-- [3Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
+- [3-Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
 - [Longest Palindromic Substring](https://github.com/skxpsis/leetcode/blob/main/longest_palindromic_substr.py)
 - [Longest Repeating Character Replacement](https://github.com/skxpsis/leetcode/blob/main/longest_repeating_char_replacement.py)
