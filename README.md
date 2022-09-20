@@ -18,6 +18,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 ### Two Pointers
 - [3-Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
 - [Backspace String Compare](https://github.com/skxpsis/leetcode/blob/main/backspace_string_compare.py)
+- [Intersection of Two Linked Lists](https://github.com/skxpsis/leetcode/blob/main/intersection_LL.py)
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Merge Two Sorted Lists](https://github.com/skxpsis/leetcode/blob/main/merge_two_sorted_lists.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
@@ -32,6 +33,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 ## By Difficulty
 ### Easy
 - [Backspace String Compare](https://github.com/skxpsis/leetcode/blob/main/backspace_string_compare.py)
+- [Intersection of Two Linked Lists](https://github.com/skxpsis/leetcode/blob/main/intersection_LL.py)
 - [Longest Common Prefix](https://github.com/skxpsis/leetcode/blob/main/lcp.py)
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Merge Two Sorted Lists](https://github.com/skxpsis/leetcode/blob/main/merge_two_sorted_lists.py)
