@@ -1,7 +1,9 @@
 # Leetcode
 Various Leetcode-style problems and solutions in Python, sorted by technique and difficulty.
 
-## By Technique
+## By Technique or Data Structure
+### Linked List
+- [Reverse Linked List](https://github.com/skxpsis/leetcode/blob/main/reverse_LL.py)
 ### Sliding Window
 - [Count Unique Characters of All Substrings of a Given String](https://github.com/skxpsis/leetcode/blob/main/unique_letter_string.py)
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
@@ -18,6 +20,7 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 ### Two Pointers
 - [3-Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
 - [Backspace String Compare](https://github.com/skxpsis/leetcode/blob/main/backspace_string_compare.py)
+- [Duplicate Number](https://github.com/skxpsis/leetcode/blob/main/duplicate_number.py)
 - [Intersection of Two Linked Lists](https://github.com/skxpsis/leetcode/blob/main/intersection_LL.py)
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Merge Two Sorted Lists](https://github.com/skxpsis/leetcode/blob/main/merge_two_sorted_lists.py)
@@ -38,12 +41,14 @@ Various Leetcode-style problems and solutions in Python, sorted by technique and
 - [Merged Sorted Array](https://github.com/skxpsis/leetcode/blob/main/merge_sorted_array.py)
 - [Merge Two Sorted Lists](https://github.com/skxpsis/leetcode/blob/main/merge_two_sorted_lists.py)
 - [Palindrome Number](https://github.com/skxpsis/leetcode/blob/main/palindrome.py)
+- [Reverse Linked List](https://github.com/skxpsis/leetcode/blob/main/reverse_LL.py)
 - [Sort Array by Parity](https://github.com/skxpsis/leetcode/blob/main/parity_array_sort.py)
 - [Squares of a Sorted Array](https://github.com/skxpsis/leetcode/blob/main/sorted_arr_squares.py)
 - [Two Sum](https://github.com/skxpsis/leetcode/blob/main/two_sum.py)
 - [Valid Anagram](https://github.com/skxpsis/leetcode/blob/main/valid_anagram.py)
 ### Medium
 - [3-Sum](https://github.com/skxpsis/leetcode/blob/main/3sum.py)
+- [Duplicate Number](https://github.com/skxpsis/leetcode/blob/main/duplicate_number.py)
 - [Fruit Into Baskets](https://github.com/skxpsis/leetcode/blob/main/fruit_into_baskets.py)
 - [Longest Palindromic Substring](https://github.com/skxpsis/leetcode/blob/main/longest_palindromic_substr.py)
 - [Longest Repeating Character Replacement](https://github.com/skxpsis/leetcode/blob/main/longest_repeating_char_replacement.py)
